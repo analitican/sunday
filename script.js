@@ -1,7 +1,7 @@
 const test = document.querySelectorAll("li .nav-item");
 console.log(test);
 
-fetch("https://sid7c.csb.app/menu.json")
+fetch("https://raw.githubusercontent.com/analitican/sunday/master/menu.json")
   .then(function(resp) {
     return resp.json();
   })

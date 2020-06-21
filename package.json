@@ -8,19 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/codesandbox-app/static-template.git"
+    "url": "git+https://github.com/analitican/sunday.git"
   },
   "keywords": [
     "template",
     "codesandbox",
     "static"
   ],
-  "author": "Ives van Hoorne",
+  "author": "Mark Bonnell",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/codesandbox-app/static-template/issues"
+    "url": "NA"
   },
-  "homepage": "https://github.com/codesandbox-app/static-template#readme",
+  "homepage": "NA",
   "devDependencies": {
     "serve": "^11.2.0"
   }

@@ -1,2 +1,0 @@
-# sunday
-Sunday Playing
